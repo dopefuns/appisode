@@ -1,0 +1,17 @@
+Fellow 2.0 Is Now Apisode 2.0
+
+NEW UPDATES
+-increased Stability
+-increased support for older devices
+-new app logo
+-new app name and action
+-new visual ui design and feels
+-added in app animations (Not Yet Tested On Other Devices)
+-upgraded to apisode engine based on AOSP Securom
+-added download feature
+
+----------------------------------------
+BUILD DETAILS 
+-channel linked to blogger dopefuns.blogspot.com
+-upgraded to webview support
+-more support to internet links
